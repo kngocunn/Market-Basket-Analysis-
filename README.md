@@ -4,6 +4,7 @@
 This project focuses on identifying purchasing patterns and product associations using **Market Basket Analysis**. By analyzing transaction data, the goal is to discover which products are frequently bought together. This information helps businesses formulate cross-selling strategies, optimize store layouts, and improve targeted marketing campaigns.
 
 ## Dataset
+link data set: https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
 The project utilizes transactional retail data.
 - **Data Source**: The raw data is originally provided as `Assignment-1_Data.csv`.
 - **Main Columns**:
