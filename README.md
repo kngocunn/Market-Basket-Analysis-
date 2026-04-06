@@ -5,6 +5,7 @@ This project focuses on identifying purchasing patterns and product associations
 
 ## Dataset
 link data set: https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
+
 The project utilizes transactional retail data.
 - **Data Source**: The raw data is originally provided as `Assignment-1_Data.csv`.
 - **Main Columns**:
