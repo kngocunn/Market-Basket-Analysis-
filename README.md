@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Market Basket Analysis for Retail Project
 
 ## Project Overview
@@ -67,3 +68,7 @@ The project includes a detailed Power BI dashboard (`report.pbix`). Providing cl
 - **Automated Pipeline Orchestration**: Migrate data loading scripts (the ones in the `upload` directory) to an orchestration tool like Apache Airflow to run natively and continuously as automated cron jobs.
 - **Cloud Database Hosting**: Host the MySQL database on a cloud platform (e.g., AWS RDS or Azure SQL) instead of keeping it strictly localized on port `3307`.
 - **Recommendation System Implementation**: Directly inject Association Rules derived via Apriori into a live storefront mock-up endpoint in order to dynamically recommend products as customers populate their carts.
+=======
+# Market-Basket-Analysis-
+Data analysis project using SQL, Python, and Power BI to explore customer purchase behavior and build product recommendation insights
+>>>>>>> cc9abd92f890e849aecb883b66924e4ccf8dba0c
