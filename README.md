@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Market Basket Analysis for Retail Project
 
 ## Project Overview
